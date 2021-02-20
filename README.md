@@ -4,8 +4,9 @@
 # Php Files Added
 1. Make a delete function (add a new button delete) then populate the input to view the data to be deleted 
 
-## Real Battle will Start Nextweek 
+### Real Battle will Start Nextweek 
 >"Problems are the doors of opportunity"
+### Always remeber that
 > "Nothing beats Hardwork"
 
 Filled with Passion, 
